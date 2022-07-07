@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HamzaFirsPod_Example' do
+  pod 'HamzaFirsPod', :path => '../'
+
+  target 'HamzaFirsPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
