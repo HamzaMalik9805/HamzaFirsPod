@@ -1,0 +1,6 @@
+framework module HamzaFirsPod {
+  umbrella header "HamzaFirsPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

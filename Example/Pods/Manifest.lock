@@ -1,0 +1,16 @@
+PODS:
+  - HamzaFirsPod (0.1.0)
+
+DEPENDENCIES:
+  - HamzaFirsPod (from `../`)
+
+EXTERNAL SOURCES:
+  HamzaFirsPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HamzaFirsPod: 4e164b3c213ddb82a200a6520efcbd3aa086aa17
+
+PODFILE CHECKSUM: 8cded4e6cbf65260615d8c51691171e15bd8041d
+
+COCOAPODS: 1.11.3
